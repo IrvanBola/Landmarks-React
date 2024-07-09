@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Landmarks of the World
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta es una aplicación de React que muestra información sobre algunos de los lugares más emblemáticos del mundo.
 
-## Available Scripts
+## Descripción
 
-In the project directory, you can run:
+La aplicación presenta una lista de landmarks (lugares emblemáticos) con información detallada sobre cada uno de ellos. Cada landmark incluye una imagen, su nombre, el país donde se encuentra y una breve descripción.
 
-### `npm start`
+## Características
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Lista de Landmarks**: Muestra una lista de lugares emblemáticos con imágenes y descripciones.
+- **Responsive Design**: La aplicación está diseñada para ser responsive y se adapta a diferentes tamaños de pantalla.
+- **Componentización**: Utiliza componentes reutilizables para representar cada landmark.
+- **Estilización CSS**: Aplicación estilizada con CSS para una mejor apariencia visual.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tecnologías Utilizadas
 
-### `npm test`
+- **React**: Biblioteca principal utilizada para construir la interfaz de usuario.
+- **JavaScript (ES6+)**: Lenguaje de programación utilizado para escribir la lógica de la aplicación.
+- **CSS**: Utilizado para estilizar la aplicación.
+- **Webpack**: Usado para empacar el código fuente.
+- **Babel**: Compilador JavaScript utilizado para convertir ES6+ a una versión compatible con navegadores más antiguos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ![image](https://github.com/IrvanBola/Landmarks-React/assets/122304883/35f33e67-020a-41b2-a511-cee066bd9431)
+  ![image](https://github.com/IrvanBola/Landmarks-React/assets/122304883/bc55669f-f346-4926-9d7c-103edbf225ed)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
