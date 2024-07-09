@@ -13,6 +13,12 @@ La aplicación presenta una lista de landmarks (lugares emblemáticos) con infor
 - **Componentización**: Utiliza componentes reutilizables para representar cada landmark.
 - **Estilización CSS**: Aplicación estilizada con CSS para una mejor apariencia visual.
 
+Uso de Props en React
+Las props son la forma principal de pasar datos entre componentes en React. Son argumentos de solo lectura pasados de un componente padre a un componente hijo. Las props permiten que los componentes sean dinámicos y reutilizables al permitir que los datos se pasen como parámetros.
+
+Ejemplo de Uso de Props
+En el contexto de tu aplicación de landmarks, el componente Landmark utiliza props para mostrar información específica de cada landmark, como su nombre, país, descripción e imagen:
+
 ## Tecnologías Utilizadas
 
 - **React**: Biblioteca principal utilizada para construir la interfaz de usuario.
